@@ -1,0 +1,31 @@
+< -> Special Symbol
+: -> Special Symbol
+= -> Special Symbol
+; -> Special Symbol
+: -> Special Symbol
+= -> Special Symbol
+* -> Special Symbol
+; -> Special Symbol
+: -> Special Symbol
+= -> Special Symbol
+- -> Special Symbol
+= -> Special Symbol
+; -> Special Symbol
+read -> Reserved Word 
+if -> Reserved Word 
+x -> Identifier 
+then -> Reserved Word 
+fact -> Identifier 
+repeat -> Reserved Word 
+fact -> Identifier 
+fact -> Identifier 
+x -> Identifier 
+x -> Identifier 
+x -> Identifier 
+until -> Reserved Word 
+x -> Identifier 
+write -> Reserved Word 
+0 -> number
+1 -> number
+1 -> number
+0 -> number
