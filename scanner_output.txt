@@ -1,31 +1,35 @@
-< -> Special Symbol
-: -> Special Symbol
-= -> Special Symbol
-; -> Special Symbol
-: -> Special Symbol
-= -> Special Symbol
-* -> Special Symbol
-; -> Special Symbol
-: -> Special Symbol
-= -> Special Symbol
-- -> Special Symbol
-= -> Special Symbol
-; -> Special Symbol
-read -> Reserved Word 
-if -> Reserved Word 
-x -> Identifier 
-then -> Reserved Word 
-fact -> Identifier 
-repeat -> Reserved Word 
-fact -> Identifier 
-fact -> Identifier 
-x -> Identifier 
-x -> Identifier 
-x -> Identifier 
-until -> Reserved Word 
-x -> Identifier 
-write -> Reserved Word 
-0 -> number
-1 -> number
-1 -> number
-0 -> number
+read      -> Reserved Word 
+x        -> Identifier 
+;         -> Special Symbol
+if      -> Reserved Word 
+0         -> number
+<         -> Special Symbol
+x      -> Identifier 
+then      -> Reserved Word 
+fact        -> Identifier 
+:         -> Special Symbol
+=         -> Special Symbol
+1         -> number
+;         -> Special Symbol
+repeat      -> Reserved Word 
+fact        -> Identifier 
+:         -> Special Symbol
+=         -> Special Symbol
+fact        -> Identifier 
+*         -> Special Symbol
+x        -> Identifier 
+;         -> Special Symbol
+x        -> Identifier 
+:         -> Special Symbol
+=         -> Special Symbol
+x        -> Identifier 
+-         -> Special Symbol
+1         -> number
+until      -> Reserved Word 
+x        -> Identifier 
+=         -> Special Symbol
+0         -> number
+;         -> Special Symbol
+write      -> Reserved Word 
+fact      -> Identifier 
+end -> Reserved Word 
